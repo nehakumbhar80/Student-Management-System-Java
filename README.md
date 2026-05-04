@@ -31,11 +31,6 @@ A complete GUI-based Student Management System built using **Java Swing, JDBC, a
 
 ---
 
-## 📸 Project Screenshots
-
-(Add screenshots here)
-
----
 
 ## 💡 Learning Outcomes
 
