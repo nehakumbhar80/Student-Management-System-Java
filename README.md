@@ -61,7 +61,7 @@ Neha Kumbhar
 
 ### Output
 
-![Output](PASTE-LINK-HERE)
+https://github.com/nehakumbhar80/Student-Management-System-Java/blob/main/output.png.png
 
 ### Database
 
