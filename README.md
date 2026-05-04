@@ -49,3 +49,29 @@ A complete GUI-based Student Management System built using **Java Swing, JDBC, a
 ## 👩‍💻 Author
 
 Neha Kumbhar
+## 📸 Project Screenshots
+
+### GUI
+
+## 📸 Project Screenshots
+
+### GUI
+
+![GUI](PASTE-LINK-HERE)
+
+### Output
+
+![Output](PASTE-LINK-HERE)
+
+### Database
+
+![Database](PASTE-LINK-HERE)
+
+
+### Output
+
+![Output](PASTE-LINK-HERE)
+
+### Database
+
+![Database](PASTE-LINK-HERE)
