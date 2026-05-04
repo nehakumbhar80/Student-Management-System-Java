@@ -57,7 +57,7 @@ Neha Kumbhar
 
 ### GUI
 
-![GUI](PASTE-LINK-HERE)
+(https://github.com/nehakumbhar80/Student-Management-System-Java/blob/main/GUI.png.png)
 
 ### Output
 
