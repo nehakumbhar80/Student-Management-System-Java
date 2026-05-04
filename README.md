@@ -65,13 +65,6 @@ https://github.com/nehakumbhar80/Student-Management-System-Java/blob/main/output
 
 ### Database
 
-![Database](PASTE-LINK-HERE)
+https://github.com/nehakumbhar80/Student-Management-System-Java/blob/main/Database.png.jpeg
 
 
-### Output
-
-![Output](PASTE-LINK-HERE)
-
-### Database
-
-![Database](PASTE-LINK-HERE)
